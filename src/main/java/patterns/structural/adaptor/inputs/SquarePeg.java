@@ -1,4 +1,4 @@
-package patterns.structural.adaptor;
+package patterns.structural.adaptor.inputs;
 
 public class SquarePeg {
     private final double width;

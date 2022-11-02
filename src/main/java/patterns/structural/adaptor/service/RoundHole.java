@@ -1,4 +1,6 @@
-package patterns.structural.adaptor;
+package patterns.structural.adaptor.service;
+
+import patterns.structural.adaptor.inputs.RoundPeg;
 
 public class RoundHole {
     private final double radius;

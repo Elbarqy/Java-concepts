@@ -1,4 +1,7 @@
-package patterns.structural.adaptor;
+package patterns.structural.adaptor.adaptor;
+
+import patterns.structural.adaptor.inputs.RoundPeg;
+import patterns.structural.adaptor.inputs.SquarePeg;
 
 public class SquarePegAdapter extends RoundPeg {
     private SquarePeg peg;
